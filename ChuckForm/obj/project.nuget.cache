@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPd85ciBGqpWyRBjoezQ0mhnZPfnV6drGiL1uaSM1yHsuGP8EFD8M/zYOOfwEI9cSElwuCVlYzjVTxe4aZeUpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\ChuckConsole\\ChuckForm\\ChuckForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
